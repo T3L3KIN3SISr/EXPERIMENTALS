@@ -1,0 +1,54 @@
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\bin\Release\net8.0-windows\ExperimentalsLauncher.exe
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\bin\Release\net8.0-windows\ExperimentalsLauncher.deps.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\bin\Release\net8.0-windows\ExperimentalsLauncher.runtimeconfig.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\bin\Release\net8.0-windows\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\bin\Release\net8.0-windows\ExperimentalsLauncher.pdb
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.Form1.resources
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.GenerateResource.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfoInputs.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfo.cs
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.CoreCompileInputs.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.sourcelink.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\refint\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.pdb
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.genruntimeconfig.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ref\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\ExperimentalsLauncher\obj\Release\net8.0-windows\ExperimentalsLauncher.Properties.Resources.resources
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.exe
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.deps.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.runtimeconfig.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.pdb
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.Form1.resources
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.Properties.Resources.resources
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.GenerateResource.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfoInputs.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfo.cs
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.CoreCompileInputs.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.sourcelink.json
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\refint\ExperimentalsLauncher.dll
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.pdb
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.genruntimeconfig.cache
+C:\Users\nashm\Documents\Github Desktop\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ref\ExperimentalsLauncher.dll
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.exe
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.deps.json
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.runtimeconfig.json
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.dll
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\bin\Release\net8.0-windows\ExperimentalsLauncher.pdb
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.Form1.resources
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.Properties.Resources.resources
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.GenerateResource.cache
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfoInputs.cache
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.AssemblyInfo.cs
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.csproj.CoreCompileInputs.cache
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.sourcelink.json
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.dll
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\refint\ExperimentalsLauncher.dll
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.pdb
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ExperimentalsLauncher.genruntimeconfig.cache
+D:\1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr\LauncherSolutionFiles\obj\Release\net8.0-windows\ref\ExperimentalsLauncher.dll

@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>MyProject.png</PackageIcon>
+    <ApplicationIcon>MyProject.ico</ApplicationIcon>
+    <Title>Game Launcher and Downloader</Title>
+    <Copyright>MIT Licence - Michael Anthony Nash</Copyright>
+    <Company>$(Authors)Michael Anthony Nash</Company>
+    <Product>$(AssemblyName)</Product>
+    <RepositoryUrl>https://github.com/ManMetGames/1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/ManMetGames/1cwk100-1-portfolio-100-1j4z1022-2425-T3L3KIN3SISr</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="MyProject.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\MyProject.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
